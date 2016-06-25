@@ -1,0 +1,9 @@
+body {
+    background-color: lightgrey;
+}
+
+
+
+.Champion.active{
+    -webkit-filter: grayscale(1);
+}
