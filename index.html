@@ -176,7 +176,7 @@
                                 <div class="container" ng-show="panel.isSelected(2)"> <br>
                                     <input type="text" style="width:30%;" placeholder="{{placeholdPosition}}" data-ng-model="Champ.filter.position" /> <br/>
                                     <table><br>
-                                        <tr class="col-md-1" center" data-ng-repeat = "position in Champions | filter: {Position: Champ.filter.position} ">
+                                        <tr class="col-md-1" data-ng-repeat = "position in Champions | filter: {Position: Champ.filter.position} ">
                                         <td>
                                             <img class="resize" ng-src = "{{position.src}}" />
                                         </td>
