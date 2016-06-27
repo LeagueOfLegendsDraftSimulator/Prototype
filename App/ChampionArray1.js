@@ -11,11 +11,9 @@ var app = angular.module('ChampApp', []);
             };
             $scope.selectChamp = selectChamp;
 
-
-
         });
-        
-        
+
+
 
         $scope.placeholdName= 'Enter Champion Name';
         $scope.placeholdPosition= 'Enter Champion Position';

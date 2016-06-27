@@ -11,21 +11,17 @@ body {
 img {
     padding-bottom: 0.5em;
 }
-<<<<<<< HEAD
 .resize {
     height: 75px;
     width 75px;
     padding-right: 250px;
 }
-=======
 
->>>>>>> origin/master
 .sideimg {
     text-align: left;
     height: 75px;
     position: absolute;
     left: 50px;
-
 }
 
 .team1{
@@ -87,8 +83,3 @@ img {
     color: rgb(255,0,0);
 }
 .panel { background-color: red;height: 200px;}
-
-.resize {
-    height: 75px;
-    width: 75px;
-    padding-right: 250px;}
