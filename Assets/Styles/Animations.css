@@ -1,14 +1,36 @@
 body {
     background-color: lightgrey;
 }
+.container {
+    text-align: center;
+    max-width: 650px;
+}
+.col-md-1 {
+    width: 12.5%;
+}
+img {
+    padding-bottom: 0.5em;
+}
+.resize {
+    height: 75px;
+    width auto;
+}
+.sideimg {
+    text-align: left;
+    height: 75px;
+    position: absolute;
+    left: 50px;
+
+}
+
+.team1{
+    text-align: left;
+}
 
 .Champion.active{
     -webkit-filter: grayscale(1);
 }
-img {
-    padding-right: 100em;
-    padding-bottom: 1em;
-}
+
 .tab {
     margin: 0px 10px;
     width: 100%;

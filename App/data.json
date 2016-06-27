@@ -4,7 +4,7 @@
       "Position": "Mid",
       "Damage": "AD",
       "url":"http://champion.gg/champion/Aatrox",
-      "src": "./Assets/ChampIcon/Aatrox_Square_0.png"
+      "src": "Assets/ChampIcon/Aatrox_Square_0.png"
   },
   {
       "ChampionName": "Ahri",
@@ -117,5 +117,5 @@
       "Damage": "AD",
       "url":"http://champion.gg/champion/Gangplank",
       "src": "Assets/ChampIcon/Gangplank_Square_0.png"
-  },
+  }
 ]

@@ -25,6 +25,7 @@ var app = angular.module('ChampApp', []);
             return this.tab === checkTab;
         };
     });
+
     // $scope.currentChampionName = null;
     // $scope.currentPosition = null;
     //
