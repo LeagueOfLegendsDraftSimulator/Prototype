@@ -13,7 +13,8 @@ img {
 }
 .resize {
     height: 75px;
-    width auto;
+    width 75px;
+    padding-right: 250px;
 }
 .sideimg {
     text-align: left;

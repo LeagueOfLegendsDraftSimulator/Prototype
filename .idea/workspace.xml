@@ -6,7 +6,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/ChampionArray.js" afterPath="$PROJECT_DIR$/App/ChampionArray.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/ChampionArray1.js" afterPath="$PROJECT_DIR$/App/ChampionArray1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/data.json" afterPath="$PROJECT_DIR$/App/data.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Styles/Animations.css" afterPath="$PROJECT_DIR$/Assets/Styles/Animations.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -33,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+            <state relative-caret-position="555">
+              <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -47,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChampionArray.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ChampionArray.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/App/ChampionArray.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,8 +59,8 @@
       <file leaf-file-name="ChampionArray1.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/ChampionArray1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="105">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,8 +79,8 @@
       <file leaf-file-name="Animations.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Styles/Animations.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            <state relative-caret-position="210">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -117,10 +116,10 @@
         <option value="$PROJECT_DIR$/App/TabController.js" />
         <option value="$PROJECT_DIR$/App/App.js" />
         <option value="$PROJECT_DIR$/App/data.json" />
-        <option value="$PROJECT_DIR$/App/ChampionArray.js" />
-        <option value="$PROJECT_DIR$/Assets/Styles/Animations.css" />
         <option value="$PROJECT_DIR$/App/ChampionArray1.js" />
+        <option value="$PROJECT_DIR$/Assets/Styles/Animations.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/App/ChampionArray.js" />
       </list>
     </option>
   </component>
@@ -696,18 +695,26 @@
       <workItem from="1466837246709" duration="947000" />
       <workItem from="1466922653243" duration="12026000" />
       <workItem from="1466938004699" duration="1248000" />
+<<<<<<< Updated upstream
       <workItem from="1466979093162" duration="13892000" />
 =======
       <workItem from="1466837246709" duration="1515000" />
+>>>>>>> Stashed changes
+=======
+      <workItem from="1466979093162" duration="15027000" />
 >>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="39138000" />
 =======
     <option name="totallyTimeSpent" value="12540000" />
+>>>>>>> Stashed changes
+=======
+    <option name="totallyTimeSpent" value="40273000" />
 >>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
@@ -1006,14 +1013,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Styles/Animations.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/data.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1035">
@@ -1022,31 +1021,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/ChampionArray.js">
+    <entry file="file://$PROJECT_DIR$/App/ChampionArray1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/ChampionArray1.js">
+    <entry file="file://$PROJECT_DIR$/Assets/Styles/Animations.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="210">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        <state relative-caret-position="555">
+          <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/ChampionArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
