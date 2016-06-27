@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="93cbeca0-0311-42b7-bc68-9967b363605e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/ChampionArray.js" afterPath="$PROJECT_DIR$/App/ChampionArray.js" />
@@ -9,6 +10,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Styles/Animations.css" afterPath="$PROJECT_DIR$/Assets/Styles/Animations.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
+=======
+    <list default="true" id="93cbeca0-0311-42b7-bc68-9967b363605e" name="Default" comment="" />
+>>>>>>> Stashed changes
     <ignored path="Prototype.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -688,15 +692,23 @@
       <option name="presentableId" value="Default" />
       <updated>1466812491233</updated>
       <workItem from="1466812493891" duration="11025000" />
+<<<<<<< Updated upstream
       <workItem from="1466837246709" duration="947000" />
       <workItem from="1466922653243" duration="12026000" />
       <workItem from="1466938004699" duration="1248000" />
       <workItem from="1466979093162" duration="13892000" />
+=======
+      <workItem from="1466837246709" duration="1515000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="39138000" />
+=======
+    <option name="totallyTimeSpent" value="12540000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
