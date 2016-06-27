@@ -11,10 +11,7 @@ body {
 img {
     padding-bottom: 0.5em;
 }
-.resize {
-    height: 75px;
-    width auto;
-}
+
 .sideimg {
     text-align: left;
     height: 75px;
@@ -85,5 +82,5 @@ img {
 
 .resize {
     height: 75px;
-    width 75px;
-    padding-right: 250px;
+    width: 75px;
+    padding-right: 250px;}
