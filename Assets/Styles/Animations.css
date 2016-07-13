@@ -1,4 +1,5 @@
 body {
+
     background-color: lightgrey;
 }
 .container {
@@ -7,6 +8,7 @@ body {
 }
 .col-md-1 {
     width: 12.5%;
+    padding-right: 70px;
 }
 img {
     padding-bottom: 0.5em;
@@ -15,7 +17,6 @@ img {
 .resize {
     height: 75px;
     width: 75px;
-    padding-right: 250px;
 }
 
 .sideimg {

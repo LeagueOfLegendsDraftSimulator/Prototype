@@ -117,5 +117,11 @@
       "Damage": "AD",
       "url":"http://champion.gg/champion/Gangplank",
       "src": "Assets/ChampIcon/Gangplank_Square_0.png"
+  },
+  {
+    "ChampionName": "Random",
+    "Position": "Random",
+    "Damage": "Random",
+    "src": "Assets/ChampIcon/Random_Square_0.png"
   }
 ]

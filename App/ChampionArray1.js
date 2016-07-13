@@ -4,12 +4,9 @@ var app = angular.module('ChampApp', []);
         $http.get('App/data.json').success(function(data) {
             $scope.Champions = data;
 
-            $scope.currentChampionName = null;
-            function selectChamp (src) {
-                debugger;
-                $scope.currentChampionName = src;
+            $scope.currentChampionName = function (champ) {
+                $scope.selectChamp = champ;
             };
-            $scope.selectChamp = selectChamp;
 
         });
 
